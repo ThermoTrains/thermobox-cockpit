@@ -2,7 +2,7 @@
 
 Automatic detection of isolation deficiencies on rolling trains
 
-## Thermo Board
+## Thermobox Cockpit
 
 ### Prerequisites
 
